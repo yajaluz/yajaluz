@@ -6,6 +6,8 @@
 
 # Red or blue?
 ![image](https://user-images.githubusercontent.com/65143613/121273719-405b1b80-c89f-11eb-80fa-84ac08d83bde.png)
+![image](https://user-images.githubusercontent.com/65143613/121273835-84e6b700-c89f-11eb-901d-deca7ba8f13e.png)
+
 
 <!--
 **yajaluz/yajaluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
