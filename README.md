@@ -4,6 +4,20 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yajaluz&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yajaluz&layout=compact&theme=tokyonight)](https://github.com/yajaluz/github-readme-stats)
 
+##### Other languages than I more use
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
+https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+
 Passionate about how the tech can change the people's lives for better. 
 
 ### Social Medias
