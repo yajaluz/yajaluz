@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Yasmin Monique :)
+## Hey there! I'm Yasmin Monique :)
 - System's Analist
 - IT Technical
 - Developer Professional and sometimes at my free time
