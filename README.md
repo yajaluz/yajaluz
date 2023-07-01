@@ -8,7 +8,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yajaluz&show_icons=true&theme=tokyonight)
 
+
 #Technologies than I more use
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yajaluz&layout=donut-vertical)](https://github.com/yajaluz/github-readme-stats)
 
 Passionate about how the tech can change the people's lives for better. 
