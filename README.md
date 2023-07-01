@@ -1,5 +1,10 @@
-## Hey there 👋
-### I'm Yasmin Monique, a developer professional and this is my shared programming space with some programming in my free time. Enjoy it!
+## Hey there! 👋 I'm Yasmin Monique :)
+- System's Analist
+- IT Technical
+- Developer Professional and sometimes at my free time
+
+Welcome my shared programming space with some programming. Enjoy it!
+
 
 ![yajaluz's Stats](https://github-readme-stats.vercel.app/api?username=yajaluz&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
