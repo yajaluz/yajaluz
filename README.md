@@ -1,4 +1,4 @@
-### Hey there 👋
+## Hey there 👋
 ### I'm Yasmin Monique, a developer professional and this is my shared programming space with some programming in my free time. Enjoy it!
 
 
@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yajaluz&show_icons=true&theme=tokyonight)
 
 
-# Technologies than I more use
+#### Technologies than I more use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yajaluz&layout=donut-vertical)](https://github.com/yajaluz/github-readme-stats)
 
