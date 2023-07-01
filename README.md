@@ -1,11 +1,11 @@
 ## Hey there 👋
 ### I'm Yasmin Monique, a developer professional and this is my shared programming space with some programming in my free time. Enjoy it!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yajaluz&show_icons=true&theme=tokyonight)
+![yajaluz's Stats](https://github-readme-stats.vercel.app/api?username=yajaluz&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ![yajaluz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yajaluz&theme=tokyonight&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yajaluz&layout=compact&theme=tokyonight)](https://github.com/yajaluz/github-readme-stats)
+![yajaluz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yajaluz&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 Passionate about how the tech can change the people's lives for better. 
 
